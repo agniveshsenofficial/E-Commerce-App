@@ -1,8 +1,8 @@
-import BestSeller from "../components/Bestseller"
-import Hero from "../components/Hero"
-import LatestCollection from "../components/LatestCollection"
-import OurPolicy from "../components/OurPolicy"
-import NewsletterBox from "../components/NewsletterBox"
+import BestSeller from "../components/BestSeller.jsx"
+import Hero from "../components/Hero.jsx"
+import LatestCollection from "../components/LatestCollection.jsx"
+import OurPolicy from "../components/OurPolicy.jsx"
+import NewsletterBox from "../components/NewsletterBox.jsx"
 
 const Home = () => {
   return (
